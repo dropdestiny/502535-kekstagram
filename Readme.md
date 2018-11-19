@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Рогонов](https://up.htmlacademy.ru/javascript/16/user/502535).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Молчанов](https://htmlacademy.ru/profile/id137398).
 
 ---
 
